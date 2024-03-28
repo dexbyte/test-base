@@ -1,1 +1,2 @@
 This is theme code
+Some code from extended project
